@@ -1,16 +1,17 @@
 ### Hi Developers 👋
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Full Stack Developer
+I am Prajwal Utturi,I did my Post graduation in Master of computer Application(MCA). Now I am working of Full stack developer Intern at Edureka. Have Knowledge of Html,Css,Javascript,Bootstrap,NodeJS,Mongo,Express,React,Bootstrap,Abode Photoshop,C,C++,Python,Java. & Frontend and Backend application ,Database, Servers, System Engineering, .Client communication that are required to make complete products.
+Full stack Developers have functionality knowledge of all layers of software development,I would simply take an idea and turn it into a finished product. I can also deal with multiple languages,especially web languages (HTML,CSS,JavaScript),Software Development Approaches,Morden Concepts, and various Tools that are Needed to build a complete product a fullfledged web/Mobile App.
 
 
-![Visitor Count](https://profile-counter.glitch.me/Prajwal15/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Prajwal1515/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Prajwal15&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Prajwal1515&column=7"/>
   </a>
 </div>
 
